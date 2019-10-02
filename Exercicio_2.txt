@@ -1,0 +1,13 @@
+Elaborar um programa para gerenciar projetos de pesquisa que atenda
+as seguintes premissas:
+1 - ser acessado por usuário e senha. A primeira vez definir o 
+usuário administrador.
+2 - gerenciar o acesso as funcionalidades por perfil: 1 - administrador
+e 2 - técnico.
+3 - apenas o administrador poderá cadastrar novos usuários.
+4 - o programa terá as seguintes funções: cadastrar usuário, cadastrar
+projeto de pesquisa, alterar projeto de pesquisa, pesquisar projeto
+de pesquisa por número e listar projeto de pesquisa (ordem alfabética).
+5 - o número do projeto de pesquisa deverá ser gerado automaticamente.
+6 - os dados do projeto de pesquisa são: número, título, pesquisador
+responsável, data de início, data fim e valor.

@@ -1,0 +1,9 @@
+função fputc() - função utilizada para armazenar dado em um arquivo caractere por caractere
+
+sintaxe: 
+fputc(caractere,ponteiro_arquivo);
+
+função fgetc() - função usada para ler dado de um arquivo caractere por caractere
+
+sintaxe:
+fgetc(ponteiro_arquivo);

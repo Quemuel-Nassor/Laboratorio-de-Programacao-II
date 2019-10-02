@@ -1,0 +1,25 @@
+Função com passagem de parâmetro por referência
+
+sintaxe:
+tipo_da_função nome_da_função(tipo_do_ponteiro nome_do ponteiro,...){
+
+	//código...
+
+}
+
+Chamada da função
+
+nome_da_função(&nome_da_variavel,...);
+
+Exemplo:
+
+Criação da função
+void troca(int *a, int *b){
+
+	//código..
+
+}
+
+Chamada da função
+
+troca(&v1,&v2);

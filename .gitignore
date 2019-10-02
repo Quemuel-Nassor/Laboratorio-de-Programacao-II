@@ -1,0 +1,6 @@
+#ignora arquivos indesejados durante o commit
+*.exe
+*.ini
+*.pdf
+*.ppt
+*.pptx

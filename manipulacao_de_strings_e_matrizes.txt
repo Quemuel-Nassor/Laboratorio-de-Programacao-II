@@ -1,0 +1,38 @@
+strlen()
+strcpy()
+strcmp() - função responsável pelo comparação de 
+duas strings. Pertence a biblioteca string.h
+O retorno da função strcmp() pode ser:
+zero - quando igual a 0 significa que as strings são 
+iguais      
+positivo - quando for > 0 significa que a primeira
+string é maior que a segunda string
+negativo - quando for < 0 significa que a primeira
+string é menor que a segunda string
+
+Sintaxe:
+strcmp(string1, string2);
+
+Exemplo:
+if (strcmp(string1, string2) == 0)
+{
+    //instruções para condição verdadeira
+}
+else
+{
+    //instruções para condição falsa
+}
+
+
+
+Matriz
+Uma matriz ou vetor bidimensional é um espaço bidimensional para o 
+armazenamento de informações de um único tipo de dado.
+Para a manipulação da matriz deve-se informar um par de coordenadas,
+a primeira representa o índice horizontal e a segunda representa o
+índice vertical (linha, coluna);
+
+Declaração de uma matriz
+tipo_de_dado nome_matriz [linhas][colunas];
+
+

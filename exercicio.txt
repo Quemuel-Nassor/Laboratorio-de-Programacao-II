@@ -1,0 +1,2 @@
+Exercício 01/03/2018
+Elaborar um programa para receber números inteiros em duas matrizes 3X3,  realizar a multiplicação das matrizes e mostrar o resultado. 
